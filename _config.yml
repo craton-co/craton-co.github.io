@@ -1,0 +1,19 @@
+title: Craton Software Company
+description: Open-source cryptographic infrastructure in Rust
+url: "https://craton-co.github.io"
+baseurl: ""
+
+theme: minima
+
+author:
+  name: Craton Software Company
+  email: support@craton.com.ar
+
+permalink: /blog/:title/
+
+header_pages:
+  - index.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
